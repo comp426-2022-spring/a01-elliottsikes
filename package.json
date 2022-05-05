@@ -1,0 +1,22 @@
+{
+  "name": "a01-elliottsikes",
+  "version": "0.0.1",
+  "description": "This package contains a very simple web server that takes one argument for port and then serves index.html in the www directory.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a01-elliottsikes.git"
+  },
+  "author": "Elliott Sikes",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a01-elliottsikes/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a01-elliottsikes#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
